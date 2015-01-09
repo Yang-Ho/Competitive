@@ -4,4 +4,6 @@
 *.dll
 *.exe
 *.o
+*.out
 *.so
+*.in
