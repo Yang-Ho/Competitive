@@ -7,3 +7,4 @@
 *.out
 *.so
 *.in
+makefile
