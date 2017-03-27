@@ -1,0 +1,8 @@
+:insert
+/*
+ID: yho1
+PROG:
+LANG: C++
+*/
+
+.
